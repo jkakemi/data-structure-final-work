@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686523343 source:c:\users\júlia\desktop\git-bash\trabfinalisajulia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
