@@ -2,6 +2,7 @@
 Final work of data structure doubly linked list in C.
 
 O trabalho consiste em fazer um programa para gerenciar clientes e produtos.
+
 O trabalho será constituido das seguintes estruturas:
 • Data (dia, mês e ano);
 • Endereço (rua, número, cidade, estado);
