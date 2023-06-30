@@ -1,5 +1,5 @@
 # data-structure-final-work
-Final work of data structure doubly linked list in C.
+University final work of data structure doubly linked list in C.
 
 O trabalho consiste em fazer um programa para gerenciar clientes e produtos.
 
